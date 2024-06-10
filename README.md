@@ -32,7 +32,7 @@ This script adds a context menu option to create a Start Menu shortcut for any f
 
 ## Customization
 
-- To change the icon, modify the `Icon` value in `add_context_menu.reg`.
+- To change the icon, modify the `Icon` value in `add_context_menu.reg` or simply replace the original file with your desired one.
 - Ensure all paths in the scripts are correct and accessible.
 
 ## License
