@@ -1,4 +1,4 @@
-# Create Start Menu Shortcut
+# Add to Start Menu
 
 This script adds a context menu option to create a Start Menu shortcut for any file.
 
