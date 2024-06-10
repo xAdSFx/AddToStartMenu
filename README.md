@@ -18,7 +18,7 @@ This script adds a context menu option to create a Start Menu shortcut for any f
 3. **Verify**:
     - Right-click on any file and ensure the "Create Start Menu Shortcut" option appears and works as expected.
   
-#### DON'T MOVE THE FOLDER LOCATION AFTER INSTALLINF, AS THE NEW REGISTRY FOLDER WILL HAVE IT REFERENCED
+#### DON'T MOVE THE FOLDER LOCATION AFTER INSTALLING, AS THE NEW REGISTRY FOLDER WILL HAVE IT REFERENCED
 (If you do so though, just run `remove_context_menu.reg` and reapply)
 
 ## Uninstallation
