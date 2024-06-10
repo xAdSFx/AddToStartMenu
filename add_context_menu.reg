@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Create Start Menu Shortcut]
+@="Create Start Menu Shortcut"
+"Icon"="%~dp0shortcut.ico"
+
+[HKEY_CLASSES_ROOT\*\shell\Create Start Menu Shortcut\command]
+@="wscript.exe \"%~dp0SilentRun.vbs\" \"%1\""
