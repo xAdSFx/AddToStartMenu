@@ -2,6 +2,8 @@
 
 This script adds a context menu option to create a Start Menu shortcut for any file.
 
+![preview](image.png)
+
 ## Installation
 
 1. **Clone the repository**:
